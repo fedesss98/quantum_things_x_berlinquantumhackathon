@@ -13,7 +13,7 @@
     -  [Indistinguishability of identical particles as a genuine quantum resource for quantum information processing](https://tesidottorato.depositolegale.it/handle/20.500.14242/172951)
  
 **Federico Amato**
-- *GitHub:* https://github.com/matteo-piccolini
+- *GitHub:* https://github.com/fedesss98
 - *Pubblications:*
     -  [Machine learning models to predict daily actual evapotranspiration of citrus orchards under regulated deficit irrigation](https://www.sciencedirect.com/science/article/pii/S1574954123001620)
     -  [Internet of Things and Artificial Intelligence for Sustainable Agriculture: A Use Case in Citrus Orchards](https://ieeexplore.ieee.org/document/10539593)
@@ -23,7 +23,7 @@
 ](https://arxiv.org/abs/2509.02353)
 
 **Alberto Ferrara**
-- *GitHub:* https://github.com/matteo-piccolini
+- *GitHub:* https://github.com/Al-Fer-quant
 - *Pubblications:*
     -  [Entanglement and coherence dynamics in photonic quantum memristors](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.012421)
     -  [GAN Decoder on a Quantum Toric Code for Noise-Robust Quantum Teleportation](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/qute.202500257)
