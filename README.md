@@ -1,4 +1,4 @@
-# Quantum Things Palermo team repo for the Berlin Quantum Hackathon 2026 application
+# Quantum Trinity team repo for the Berlin Quantum Hackathon 2026 application
 
 ## Relevant Works
 **Matteo Piccolini**
